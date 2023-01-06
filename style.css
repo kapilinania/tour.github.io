@@ -158,13 +158,11 @@
     color: black;
 
 }
-ul{
+.kapil_main{
     display: flex;
-    color: black;
-   
-   
+    color: black;  
 }
-ul li{
+.kapil{
     list-style: none;
     font-size: 23px;
     padding-left: 60px;
